@@ -1,0 +1,15 @@
+*{
+    padding: 2px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+h1{
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
